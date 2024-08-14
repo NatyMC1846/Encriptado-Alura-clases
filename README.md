@@ -18,7 +18,7 @@ Para utilizar esta aplicación en tu entorno local, sigue los siguientes pasos:
 
 1. **Clona el repositorio**:
     ```bash
-    git clone https://github.com/tu-usuario/encriptador-js.git
+    git clone git@github.com:NatyMC1846/Encriptado-Alura-clases.git
     ```
 
 2. **Abre el archivo `index.html`** en tu navegador preferido para ver la aplicación en acción.
